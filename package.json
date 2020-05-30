@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/kevyder/webpack_base#readme",
   "devDependencies": {
+    "eslint": "^7.1.0",
+    "eslint-config-google": "^0.14.0",
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.11"
   }
